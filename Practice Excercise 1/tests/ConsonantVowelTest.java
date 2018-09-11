@@ -23,7 +23,7 @@ public class ConsonantVowelTest {
 
         String result = test.Check("AeOuIndia");
 
-        assertEquals("A - is a vowel e - is a vowel O - is a vowel u - is a vowel I - is a vowel n - is a consonent d - is a consonent i - is a vowel a - is a vowel", result);
+        assertEquals("vowelvowelvowelvowelvowelconsonentconsonentvowelvowel", result);
 
     }
 }
